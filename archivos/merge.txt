@@ -1,3 +1,3 @@
 Juan José Alzate Rojas, 22, Aprender lo que más pueda.
-
-Porque esto puede generar conflictos, perdida de tiempo y dinero.
+Porque esto puede generar conflictos en los archivos del trabajo en cuestión, perdida de tiempo y dinero.
+Ahora sí puedo crear un commit y subir la carpeta, porque ahora la carpeta 'archivos' no está vacía.
