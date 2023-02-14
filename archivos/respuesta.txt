@@ -1,0 +1,1 @@
+No pude hacer el commit inicialmente porque la carpeta 'archivos' estaba vacía.
